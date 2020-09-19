@@ -1,3 +1,3 @@
 # Machine-Learning
 - Logistic Regression from Scratch
-- Decision Tree, Random Forest AdaBoost, Gradient Boosting
+- Using Ensembles - Random Forest AdaBoost, Gradient Boosting
